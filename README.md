@@ -2,7 +2,7 @@
 
 # Back-end | Rotas, Intermediarios e Controladores
 
-:pencil2: Exercício (originalmente desenvolvido em 28 de Abril de 2022) <br>
+:pencil2: Exercício (originalmente desenvolvido em 30 de Abril de 2022) <br>
 Exercício proposto pela [Cubos Academy](https://cubos.academy/sucesso), tem como objetivo praticar a criação de rotas, intermediários (middlewares) e controladores.
 
 :desktop_computer: Tecnologias usadas
